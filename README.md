@@ -16,3 +16,9 @@ Arduino based circuit to set target temperature for my heating system.
 | D6  | LED indicating radiator target temperature is 22°C               |
 | D6  | LED indicating Underfloor Heating target temperature is 20°C     |
 
+
+License
+-------
+
+This Arduino sketch is licensed under the terms of the MIT license.
+See the file [LICENSE](LICENSE.md) for details.
